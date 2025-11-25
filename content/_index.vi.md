@@ -7,17 +7,17 @@ chapter: false
 
 # Báo cáo thực tập
 ### Thông tin sinh viên:
-&emsp; **Họ và tên:** Nguyễn Văn A
+&emsp; **Họ và tên:** Nguyễn Trường Phú
 
 &emsp; **Số điện thoại:** 0989888999
 
 &emsp; **Email:** Anguyenvan@gmail.com
 
-&emsp; **Trường:** Đại học Sư phạm Kỹ thuật TP.HCM
+&emsp; **Trường:** Đại học Greenwich
 
 &emsp; **Ngành:** Công nghệ thông tin
 
-&emsp; **Lớp:** AWS082025
+&emsp; **Lớp:** COS1101
 
 &emsp; **Công ty thực tập:** Công ty TNHH Amazon Web Services Vietnam
 

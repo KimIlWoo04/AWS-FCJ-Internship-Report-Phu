@@ -18,8 +18,8 @@ pre: " <b> 1.2. </b> "
 ### Tasks to be carried out this week:
  Task                                                                                                                                                                                                   | Start Date | Completion Date | Reference Material                        |
 | --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------- | --------------- | 
- Install Ubuntu OS on local machine for development environment                                                                                                   | 7/10/2025 | 11/10/2025      |<https://documentation.ubuntu.com/desktop/en/latest/tutorial/install-ubuntu-desktop/> |
- Sign up for AWS free tier account with proper configuration                                             | 08/10/2025 | 08/10/2025      | <https://000001.awsstudygroup.com/> |
+| Install Ubuntu OS on local machine for development environment                                                                                                   | 7/10/2025 | 11/10/2025      |<https://documentation.ubuntu.com/desktop/en/latest/tutorial/install-ubuntu-desktop/> |
+| Sign up for AWS free tier account with proper configuration                                             | 08/10/2025 | 08/10/2025      | <https://000001.awsstudygroup.com/> |
 Configure AWS Management Console access and install AWS CLI tools | 08/10/2025 | 10/10/2025      | <https://000001.awsstudygroup.com/> |
 
 

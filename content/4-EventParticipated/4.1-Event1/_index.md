@@ -75,7 +75,7 @@ pre: " <b> 4.1. </b> "
 - **Structured Learning Path**: The day moves from a high-level vision (Keynote) to specialized knowledge (Breakout Sessions), ensuring a comprehensive learning experience.
 - **Hands-On Practice**: The optional interactive labs provide a critical, guided environment to apply what you've learned directly on the AWS platform.
 
-### Designed for a Broad Audience
+#### Designed for a Broad Audience
 
 - **Inclusive for All Levels**: Whether you are a hands-on IT professional, a developer, a data specialist, or a business leader, the content is curated to provide value.
 - **Role-Based Relevance**: The sessions are designed to address the specific interests and challenges of different roles within an organization's technology journey. 

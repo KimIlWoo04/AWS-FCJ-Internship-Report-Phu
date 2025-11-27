@@ -21,11 +21,22 @@ During my internship, I participated in numbers events. Each one was a memorable
 ---
 
 ### [Event 2](4.2-Event2/)  
-&emsp;**Event Name:** GenAI-powered App-DB Modernization workshop  
+&emsp;**Event Name:** AWS Cloud Mastery Series #1  
 
-&emsp;**Date & Time:** 09:00, August 13, 2025  
+&emsp;**Date & Time:** 08:00, November 15, 2025  
 
 &emsp;**Location:** 26th Floor, Bitexco Tower, 02 Hai Trieu Street, Saigon Ward, Ho Chi Minh City  
 
 &emsp;**Role:** Attendee  
+
+---
+
+### [Event 3](4.3-Event3/)  
+&emsp;**Event Name:** AWS Cloud Mastery Series #1  
+
+&emsp;**Date & Time:** 08:00, November 15, 2025  
+
+&emsp;**Location:** 26th Floor, Bitexco Tower, 02 Hai Trieu Street, Saigon Ward, Ho Chi Minh City  
+
+&emsp;**Role:** Attendee 
 
